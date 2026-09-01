@@ -38,8 +38,12 @@ Ripple effects of prizewinning across knowledge space and collaboration networks
 
 ## Data
 
-The replication data are archived separately on **Zenodo** because some
-data files exceed GitHub's file-size limit.
+The replication data are stored separately on **Google Drive** because some data files exceed GitHub's file-size limit.
+
+**Data repository:**  
+[Google Drive](https://drive.google.com/drive/folders/1_RNRytilj0fV1a2YV3dPe9zD1XQ8o7P0?usp=sharing)
+
+Download the replication data and place them in a local `Data/` directory before running the replication code.
 
 **Data repository:**\
 \[Zenodo DOI/link to be added\]
