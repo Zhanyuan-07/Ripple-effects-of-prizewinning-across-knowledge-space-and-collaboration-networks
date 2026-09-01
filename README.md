@@ -45,11 +45,6 @@ The replication data are stored separately on **Google Drive** because some data
 
 Download the replication data and place them in a local `Data/` directory before running the replication code.
 
-**Data repository:**\
-\[Zenodo DOI/link to be added\]
-
-Download the data archive and extract it into a local `Data/` directory
-before running the replication code.
 
 ## Software Requirements
 
