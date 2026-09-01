@@ -9,6 +9,7 @@ Scientific prizes recognize individual achievement, but their influence may exte
 This repository provides the code and data required to reproduce the main analyses, tables, and figures in the study.
 
 ## Repository Structure
+
 ```text
 Ripple effects of prizewinning across knowledge space and collaboration networks/
 ├── Matching_algorithm.py
@@ -20,6 +21,7 @@ Ripple effects of prizewinning across knowledge space and collaboration networks
 ├── Figure 6.ipynb
 ├── Table 1_2.R
 └── README.md
+```
 
 ### Main files
 
